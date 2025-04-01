@@ -1,8 +1,7 @@
 
-<h2>〽️ Deploy Me </h2> 
-  
-<details><summary>📌 Deploy to Heroku </summary>
-  
-<a href="https://heroku.com/deploy?template=https://github.com/karaminarani/approve"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
-</details>
+🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
+</p>
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/karaminarani/Auto-Approved"><img src="https://github.com/HEROKU/Buttons/blob/HEROKU/heroku/herokudeploy-01.svg" alt="HEROKU" border="0" height="125" width="200" align="center" /></a>
+</p>
 
